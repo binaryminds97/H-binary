@@ -1,0 +1,17 @@
+{
+  "English": {
+    "start_journey": "Start My Livelihood Journey",
+    "how_it_works": "How it works",
+    "why_voice": "Why voice-first?"
+  },
+  "Hindi": {
+    "start_journey": "मेरा रोजगार यात्रा शुरू करें",
+    "how_it_works": "यह कैसे काम करता है",
+    "why_voice": "क्यों आवाज़-प्रथम?"
+  },
+  "Marathi": {
+    "start_journey": "माझी उपजीविका यात्रा सुरू करा",
+    "how_it_works": "हे कसे काम करते",
+    "why_voice": "कशासाठी आवाज?"
+  }
+}
